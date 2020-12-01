@@ -1,2 +1,2 @@
-print('Hello Git')
-print('Hello Sublime')
+print('Hello git')
+print('Hello sublime')
