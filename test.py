@@ -1,5 +1,6 @@
-def my_superfunction():
-    print('YandexLyceum')
+# Дмитрий
+1def my_superfunction():
+    print('1')
 
 
 def main():
